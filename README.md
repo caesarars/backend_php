@@ -23,7 +23,10 @@ docker-compose up
 
 
 akan ada di PORT : 
+
 http://localhost:8082 untuk php
+
 http://localhost:8083 untuk phpmyAdmin
+
 http://localhost:3306 untuk mysql
 
