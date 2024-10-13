@@ -1,4 +1,4 @@
-# Proyek Vue.js dengan Docker
+# Proyek PHP dengan Docker
 
 Repositori ini berisi proyek PHP yang disiapkan untuk dijalankan di dalam kontainer Docker. Berikut adalah instruksi untuk mengatur dan menjalankan proyek menggunakan Docker.
 
